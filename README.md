@@ -7,3 +7,6 @@
 📄 Documentation: https://docs.kyrosfivem.com/
 
 🎥 YouTube: https://www.youtube.com/@kyrosfivem
+
+# Support
+ <a href='https://discord.gg/kyro'>![Discord Banner 2](https://discordapp.com/api/guilds/1074212853671792670/widget.png?style=banner2)</a>
