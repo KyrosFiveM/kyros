@@ -4,6 +4,6 @@
 
 🔗 Tebex Website: https://store.kyrosfivem.com/
 
-📚 Documentation: https://docs.kyrosivem.com/
+📄 Documentation: https://docs.kyrosfivem.com/
 
 🎥 YouTube: https://www.youtube.com/@kyrosfivem
