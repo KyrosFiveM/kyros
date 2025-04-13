@@ -9,4 +9,4 @@
 🎥 YouTube: https://www.youtube.com/@kyrosfivem
 
 # Support
- <a href='https://discord.gg/kyro'>![Discord Banner 1](https://discordapp.com/api/guilds/1074212853671792670/widget.png?style=banner1)</a>
+ <a href='https://discord.gg/kyro'>![Discord Banner 3](https://discordapp.com/api/guilds/1074212853671792670/widget.png?style=banner3)</a>
